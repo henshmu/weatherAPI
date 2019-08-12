@@ -1,0 +1,41 @@
+body{          
+    background-repeat:  no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    padding-top: 5rem;
+}
+
+.warning{
+    text-align: center;
+    border-radius: 4px;
+    width: 429.46px;
+    position: relative;
+    left:230px;
+}
+
+.input{
+    width:50%;    
+}
+
+.mt25{
+    margin-top: 25%;
+}
+
+.table th, .table th li, .table tr td{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.bg-opacity{
+    background-color: rgba(999,999,999,0.4);
+    border-radius: 4px;
+}
+
+.period{
+    position:relative;
+    left: 16px;
+    margin-bottom: 1rem;
+}
